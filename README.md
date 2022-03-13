@@ -29,4 +29,4 @@
   * [Mohammad Mehdi Afkhami](https://github.com/mohmehdi)
   * [Hossein Bazmandegan (HB)](https://github.com/HB-2000)
   * [Mohammad Lashkari](https://github.com/MohammadLsk)
-  * [Puria Amiri-Nesab]()
+  * [Puria Amiri-Nesab](https://github.com/Puami)
