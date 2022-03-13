@@ -104,6 +104,9 @@ class ConvexHull(bpy.types.Operator):
     
     #left and right is an array of type Point defined above
     def merge(self,left,right):
+        # hint: to access actual cordinates of a vertex:
+        # Point has a attribute v and v has atribute co and in there you can find x,y
+        # so like this: p.v.co.x
         pass
 
 
